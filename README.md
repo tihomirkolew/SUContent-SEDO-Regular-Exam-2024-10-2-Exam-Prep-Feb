@@ -1,1 +1,2 @@
-Test 1 with readme
+Testing feature-ci-pipeline branch made from develop branch
+testing jenkins pipeline
